@@ -1,5 +1,10 @@
 # scrum-master
 
+Experience
+-------------------------------------------------------------------------------------------------------------
+12+ Years of Software Development Experience (.NET)
+
+
 Skills
 -------------------------------------------------------------------------------------------------------------
 C#
@@ -16,6 +21,14 @@ Certifications
 3. DP - 900 : Azure Data Fundamentals
 
 
-Experience
+Azure Tools Used:
 -------------------------------------------------------------------------------------------------------------
-12+ Years of Software Development Experience
+1. Virtual Computers
+2. Azure Web Apps
+3. Cognitive Search
+
+
+Software Development Models
+-------------------------------------------------------------------------------------------------------------
+1. Waterfall Model
+2. Agile Model (Scrum & Kanban)
